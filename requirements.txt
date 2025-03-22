@@ -1,0 +1,10 @@
+feedparser
+newspaper3k
+transformers
+sentence-transformers
+torch
+jinja2
+lxml[html_clean]
+beautifulsoup4
+markdown2
+pdfkit
